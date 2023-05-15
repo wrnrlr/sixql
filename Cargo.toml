@@ -20,7 +20,7 @@ pgrx = "=0.8.3"
 sixel-tokenizer = "0.1.0"
 sixel-image = "0.1.0"
 plotters = "0.3.4"
-sixel-rs = "0.3.3"
+#sixel-rs = "0.3.3"
 
 [dev-dependencies]
 pgrx-tests = "=0.8.3"

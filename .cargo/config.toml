@@ -2,5 +2,5 @@
 # Postgres symbols won't be available until runtime
 rustflags = [
     "-Clink-arg=-Wl,-undefined,dynamic_lookup",
-    "-Clink-arg=-Wl,-rpath,/opt/homebrew/Cellar/libsixel/1.10.3_1/lib/",
+#    "-Clink-arg=-Wl,-rpath,/opt/homebrew/Cellar/libsixel/1.10.3_1/lib/",
 ]
