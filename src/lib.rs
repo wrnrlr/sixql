@@ -1,6 +1,6 @@
 use pgrx::prelude::*;
 use sixel_image::*;
-use plotters::prelude::*;
+// use plotters::prelude::*;
 // use sixel_rs::encoder::{Encoder, QuickFrameBuilder};
 // use sixel_rs::optflags::EncodePolicy;
 // use sixel_rs::sys::PixelFormat;
