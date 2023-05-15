@@ -5,7 +5,7 @@ It can display high quality graphics right in the same terminal used to write SQ
 
 ## Requirements
 * [libsixel](https://github.com/saitoha/libsixel#readme):
-    * Ubuntu: `sudo apt install libsixel-dev`
+    * Ubuntu: `sudo apt install libsixel-dev libfontconfig1-dev`
     * OSX: `brew install libsixel` (is broken ATM)
     * NIX: TODO
 * [pgrq](https://github.com/tcdi/pgrx#readme): `cargo install --locked cargo-pgrx; cargo pgrx init`
