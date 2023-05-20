@@ -1,7 +1,7 @@
 # SIXQL
 
 Experimental extension of the Postgres database that provides inline plotting functionality.
-It can display high quality graphics right in the same terminal used to write SQL.
+It uses the [SIXEL](https://en.wikipedia.org/wiki/Sixel) protocol to show display high quality graphics in the terminal.
 
 ## Requirements
 * [libsixel](https://github.com/saitoha/libsixel#readme):
