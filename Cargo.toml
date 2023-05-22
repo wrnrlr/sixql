@@ -20,7 +20,9 @@ pgrx = "=0.8.3"
 sixel-tokenizer = "0.1.0"
 sixel-image = "0.1.0"
 plotters = "0.3.4"
-#sixel-rs = "0.3.3"
+sixel-rs = { git = "https://github.com/wrnrlr/sixel-rs.git", rev = "5a9a0f2524800f6d86cf2ebb07225f2695a9e8d2" }
+sixel-sys = { version = "0.3.1" }
+failure = "0.1.8"
 
 [dev-dependencies]
 pgrx-tests = "=0.8.3"
